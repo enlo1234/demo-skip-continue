@@ -17,27 +17,27 @@ interface Card {
 const cards: Card[] = [
   {
     id: 1,
-    title: "Creative Arts",
+    title: "Art",
     icon: <Palette size={20} />
   },
   {
     id: 2,
-    title: "Music & Audio",
+    title: "Music",
     icon: <Music size={20} />
   },
   {
     id: 3,
-    title: "Photography",
+    title: "Photos",
     icon: <Camera size={20} />
   },
   {
     id: 4,
-    title: "Literature",
+    title: "Books",
     icon: <Book size={20} />
   },
   {
     id: 5,
-    title: "Gaming",
+    title: "Games",
     icon: <Gamepad2 size={20} />
   },
   {

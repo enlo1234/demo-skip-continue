@@ -70,9 +70,6 @@ function App() {
           <h1 className="text-3xl font-semibold text-gray-900 mb-3">
             Choose Your Interests
           </h1>
-          <p className="text-gray-600">
-            Select the areas that interest you
-          </p>
         </div>
 
         {/* Cards Grid */}
